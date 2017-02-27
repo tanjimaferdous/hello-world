@@ -1,2 +1,2 @@
 # hello-world
-Learning to use github ui
+First time trialing to learn how to use github ui
